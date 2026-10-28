@@ -1,4 +1,4 @@
-## 👋 Visual Communication and Data Story-telling 2024 @ Constructor University Master "Data Science for Society and Business"
+## 👋 Visual Communication and Data Story-telling 2025 @ Constructor University Master "Data Science for Society and Business"
 
 Private space for Organization, Codebases, and Student Projects
 
